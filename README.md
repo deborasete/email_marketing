@@ -33,5 +33,5 @@ This email template is suitable for simulating or testing financial notification
 ## Developed by:  
 
 
-### Débora Sete Acosta 
-### Linkedin: https://www.linkedin.com/in/debora-sete/ 
+- LinkedIn: [Debora Sete](https://www.linkedin.com/in/debora-sete/)
+- Email: [sete.debora@gmail.com](mailto:sete.debora@gmail.com)
